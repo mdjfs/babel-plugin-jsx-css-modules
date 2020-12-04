@@ -1,6 +1,6 @@
 {
-  "name": "plugin-jsx-css-modules",
-  "version": "0.0.1",
+  "name": "babel-plugin-css-jsx-modules",
+  "version": "0.0.2",
   "description": "Transform JSX components so that they are inside your component that handles the link of your CSS",
   "main": "index.js",
   "scripts": {
