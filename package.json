@@ -1,0 +1,29 @@
+{
+  "name": "plugin-jsx-css-modules",
+  "version": "0.0.1",
+  "description": "Transform JSX components so that they are inside your component that handles the link of your CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdjfs/babel-plugin-jsx-css-modules.git"
+  },
+  "keywords": [
+    "css",
+    "jsx",
+    "modules",
+    "electron",
+    "react"
+  ],
+  "author": "Marcos Fuenmayor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdjfs/babel-plugin-jsx-css-modules/issues"
+  },
+  "homepage": "https://github.com/mdjfs/babel-plugin-jsx-css-modules#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
